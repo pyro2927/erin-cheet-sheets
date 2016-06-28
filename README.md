@@ -28,7 +28,7 @@ There are many different ways to interface with a computer.  There are two level
 
 ### Shells
 
-The desktop environment previously mentioned is a GUI [shell](https://en.wikipedia.org/wiki/Shell_(computing\)).  The name is picked for a reason, as it's a wrapper around the operating system, also called the [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system\)).  It is common among experienced programmers to use a CLI shell because it is closer to the kernel beneath it, making it more powerful and capable than any GUI.  While it will take some time to learn, you will eventually be able to do far more than any GUI would allow you to do.
+The desktop environment previously mentioned is a GUI [shell](https://en.wikipedia.org/wiki/Shell_(computing)).  The name is picked for a reason, as it's a wrapper around the operating system, also called the [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)).  It is common among experienced programmers to use a CLI shell because it is closer to the kernel beneath it, making it more powerful and capable than any GUI.  While it will take some time to learn, you will eventually be able to do far more than any GUI would allow you to do.
 
 To run a CLI shell, you will often times do this within a GUI shell.  This may seem kind of silly, but it is common practice.  OS X comes with [Terminal](https://en.wikipedia.org/wiki/Terminal_(OS_X)) pre-installed to allow you to do this, though [iTerm2](https://www.iterm2.com/) is considered superior by many.  If you're just getting started out, you can use either one.
 
