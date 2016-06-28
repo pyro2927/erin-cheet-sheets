@@ -35,7 +35,7 @@ To run a CLI shell, you will often times do this within a GUI shell.  This may s
 ###### Popular CLI shells:
 
 * [sh](https://en.wikipedia.org/wiki/Bourne_shell) - The Bourne Shell
-* [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell\)) - **B**ourne **A**gain **SH**ell
+* [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - **B**ourne **A**gain **SH**ell
 * [fish](https://en.wikipedia.org/wiki/Friendly_interactive_shell)
 * [zsh](https://en.wikipedia.org/wiki/Z_shell) - "The last shell you'll ever need"
 
@@ -57,7 +57,7 @@ Just like there are GUI programs (Google Chrome, Microsoft Word, etc), there are
 
 ###### Common CLI Programs
 
-* [cd](https://en.wikipedia.org/wiki/Cd_(command\)) - **C**hange **D**irectory
+* [cd](https://en.wikipedia.org/wiki/Cd_(command)) - **C**hange **D**irectory
 * [ls](https://en.wikipedia.org/wiki/Ls) - **L**i**S**t the files and directories of where you are
 * [pwd](https://en.wikipedia.org/wiki/Pwd) - **P**rint **W**orking **D**irectory
 * [curl](https://en.wikipedia.org/wiki/CURL) - **C**lient for **URL**s
